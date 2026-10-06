@@ -1,0 +1,8 @@
+[
+  {
+    "context": "Workspace",
+    "bindings": {
+      "alt-j": ["task::Spawn", { "task_name": "Java: criar arquivo" }]
+    }
+  }
+]
